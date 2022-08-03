@@ -6,13 +6,10 @@ permalink: "/:title/"
 logo: 'assets/images/helimodelos-logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Rafael Biriba
-paginate: 30
+paginate: 4
 disqus: 'demowebsite'
 locale: en_us
 lang: en_us
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
 markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
@@ -20,7 +17,10 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: UA-28101889-1
+
+en_flag: "&#x1F1EC;&#x1F1E7;"
+br_flag: "&#127463;&#127479;"
 
 # Authors
 authors:
