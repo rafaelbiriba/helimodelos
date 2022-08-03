@@ -68,19 +68,11 @@ exclude:
   - _data
 
 t:
-  en:
+  en_US:
     description: Technology and Development stuff!
     flag: "&#x1F1EC;&#x1F1E7;"
     name: "English"
-    page_locale: en_US
-    html_locale: en
-    translations:
-      language: "Language"
-  br:
+  pt_BR:
     description: Coisas sobre tecnologia e desenvolvimento!
     flag: "&#127463;&#127479;"
     name: "Português"
-    page_locale: pt_BR
-    html_locale: pt
-    translations:
-      language: "Idioma"

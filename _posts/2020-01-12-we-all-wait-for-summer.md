@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We all wait for summer"
-locale: br
+locale: pt_BR
 categories: [ Jekyll, tutorial ]
 tags: [test, test2, test3, sdsd, fdfdf , dfeefe, dfeef, er3r34r, 3r43r3f, wefwefwe fwd,wefwefwef,wef wef we,wefwefwef,wefwef] 
 image: assets/images/1.jpg

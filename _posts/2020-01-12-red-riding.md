@@ -2,7 +2,7 @@
 layout: post
 title:  "Red Riding Hood"
 author: rafaelbiriba
-locale: en
+locale: en_US
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---

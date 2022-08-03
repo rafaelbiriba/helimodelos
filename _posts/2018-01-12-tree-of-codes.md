@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree of Codes"
 author: rafaelbiriba
-locale: en
+locale: en_US
 categories: [ en, Jekyll ]
 image: assets/images/2.jpg
 ---
