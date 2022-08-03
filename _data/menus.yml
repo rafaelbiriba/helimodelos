@@ -4,8 +4,11 @@ topmenu:
 - title: English &#x1F1EC;&#x1F1E7;
   url: "/en"
 
-- title: Português &#127463;&#127479; (Em breve!)
-  url: "#"
+- title: Português &#127463;&#127479;
+  url: "/br"
+
+- title: Search
+  url: "search/"
 
 - title: About
   url: "about/"

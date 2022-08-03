@@ -2,6 +2,7 @@
 layout: post
 title:  "Markdown Example"
 author: rafaelbiriba
+locale: en
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 ---
