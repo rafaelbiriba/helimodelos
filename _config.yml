@@ -1,13 +1,13 @@
 title: "Helimodelos.com"
 email: helimodelos@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
-permalink: "/:title/"
+baseurl: "/blog"
+permalink: "/:categories/:title/"
 logo: 'assets/images/helimodelos-logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Rafael Biriba
-paginate: 4
-disqus: 'demowebsite'
+author: rafaelbiriba
+paginate: 8
+disqus: 'helimodelos-com'
 locale: en_us
 lang: en_us
 markdown: kramdown
@@ -22,28 +22,25 @@ ganalytics: UA-28101889-1
 en_flag: "&#x1F1EC;&#x1F1E7;"
 br_flag: "&#127463;&#127479;"
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: '/categories/:name/'
+    tag: '/tags/:name/'
+
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
-# Social
-# social:
-#   facebook: https://www.facebook.com/helimodelos
+  rafaelbiriba:
+    name: Rafael Biriba
+    display_name: Rafael Biriba
+    avatar: '/assets/images/logo-square.png'
+    email: helimodelos@gmail.com
+    web:
+    social: https://www.facebook.com/helimodelos
+    description: "Author and creator of the blog. <br><code>'If you want to fly, give up everything that weighs you down.'</code>"
 
 # Plugins
 plugins: 

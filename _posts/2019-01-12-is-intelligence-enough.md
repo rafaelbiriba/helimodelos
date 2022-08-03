@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Intelligence Enough"
-author: sal
+author: rafaelbiriba
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---

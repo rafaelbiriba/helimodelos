@@ -1,8 +1,11 @@
 # Top Menu
 topmenu:
 
-- title: Home
-  url: ""
+- title: English &#x1F1EC;&#x1F1E7;
+  url: "/en"
+
+- title: Português &#127463;&#127479; (Em breve!)
+  url: "#"
 
 - title: About
   url: "about/"

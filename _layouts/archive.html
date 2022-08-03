@@ -1,0 +1,21 @@
+---
+layout: default
+title: Archive
+---
+
+<!-- Begin List Posts
+================================================== -->
+
+<h1 class="mt-5 mb-4 pb-2 border-bottom">Posts with {{ page.type }} "{{ page.title }}"</h1>
+
+
+{% for post in page.posts %}
+<div class="row">
+    <div class="col-md-4 mb-5">
+        {% include postbox.html %}
+    </div>
+</div>
+
+{% endfor %}
+
+</div>

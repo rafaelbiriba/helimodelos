@@ -4,7 +4,7 @@
 // start content
 
 $green:   #08a057 !default;
-$blue:    #3d61fd !default;
+$blue:    #EE1C25 !default;
 
 @import 'bootstrap/bootstrap';
 
@@ -223,6 +223,20 @@ small, .small {
 .prevnextlinks .rightborder {
     border-right: 1px solid #eee;
 }
+
+.related-posts {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    border-top: 1px solid #eee;  
+    border-bottom: 1px solid #eee;
+    .badge {
+        font-size: 15px;
+        padding: 5px 7px;
+        display: inline-block;
+        margin: 0 20px 30px 0;
+    }
+}
+
 .author-thumb {
     object-position: center;
     width: 50px;
@@ -251,14 +265,16 @@ small, .small {
 }
 .post-top-meta .author-description {
 	margin-bottom:5px;
-	margin-top:10px;
+	margin-top:0px;
 	font-size:0.95rem;
 }
 .author-meta {
-	flex:1 1 auto;
+    padding: 0 10px;
 	white-space:nowrap!important;
 	text-overflow:ellipsis!important;
 	overflow:hidden!important;
+    background-color: #f0f0f0;
+    font-size:0.8rem;
 }
 span.post-name,span.post-date,span.author-meta {
 	display:inline-block;
@@ -304,7 +320,7 @@ span.post-name a,span.post-read-more a:hover {
     }
     a {
         color:inherit; 
-        box-shadow:inset 0 -2px 0 #EE1C25, 0 2px 0 #EE1C25;
+        box-shadow:inset 0 -1px 0 #EE1C25, 0 2px 0 #EE1C25;
         
     }
     a:hover {
@@ -327,6 +343,7 @@ blockquote {
 }
 .featured-image {
     display: block;
+    margin-top: 2rem;
     margin-bottom: 2rem;
 }
 
@@ -353,6 +370,16 @@ blockquote {
 
 .card {	
     border:0;
+}
+.card-title a {
+    color:inherit; 
+    box-shadow:inset 0 -1px 0 #EE1C25, 0 2px 0 #EE1C25;
+    
+}
+.card-title a:hover {
+    box-shadow:inset 0 -30px 0 #EE1C25, 0 2px 0 #EE1C25;
+    color:white;
+    text-decoration:none;
 }
 .card .img-thumb {
 	border-top-right-radius:4px;
