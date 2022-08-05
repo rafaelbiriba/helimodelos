@@ -76,3 +76,18 @@ t:
     description: Coisas sobre tecnologia e desenvolvimento!
     flag: "&#127463;&#127479;"
     name: "Português"
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    posts:
+      layout: post
+      date:
+      title:
+      excerpt: "description"
+      author: rafaelbiriba
+      locale: en_US/pt_BR
+      categories: [ en, pt, a, b ]
+      tags: [1,2,3]
+      image: assets/images/3.jpg
+      published: false

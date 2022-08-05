@@ -18,6 +18,10 @@ group :jekyll_plugins do
     gem 'jekyll-paginate-v2'
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
+    gem 'jekyll-compose'
     gem 'tzinfo-data'
     gem 'tzinfo'
+    gem 'jekyll-admin'
+    gem "capistrano", "~> 2"
+    gem "rake"
 end
