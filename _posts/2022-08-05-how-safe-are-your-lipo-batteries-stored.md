@@ -74,7 +74,7 @@ But we need to break a myth here: Ammo box is not fireproof, let alone designed 
 
 Despite what many people believe, it is possible to buy a box like this for around $20 (dollars) on the date of publication.
 
-![Ammo Box](/blog/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/ammo-box.jpeg)
+![Ammo Box](/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/ammo-box.jpeg)
 
 ## What if smoke/fire starts?
 

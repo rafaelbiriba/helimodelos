@@ -54,7 +54,7 @@ Não se esqueça, a bateria totamente carregada ou descarregada pode iniciar a r
 
 Fuja disso! Uma simples pesquisa por "lipo safe fire" e você vai ver que essas bolsas pegam fogo junto com a bateria.
 
-![Lipo Bag](/blog/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/lipo-bag.jpeg)
+![Lipo Bag](/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/lipo-bag.jpeg)
 
 ### Bat Safe
 
@@ -64,7 +64,7 @@ O fabricante faz atenção que a caixa tem um limite máximo de baterias. No cas
 
 Eu particularmente estou usando essa opção. A caixa custa por volta de $75 (dólares) na data da publicação.
 
-![Bat Safe](/blog/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/bat-safe.jpeg)
+![Bat Safe](/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/bat-safe.jpeg)
 
 ### Caixa de munição
 
@@ -74,7 +74,7 @@ Mas precisamos quebrar um mito aqui: Caixa de munição não é a prova de fogo 
 
 Apesar do que muita gente acredita, é possível comprar uma caixa dessa por volta de $20 (dólares) na data da publicação.
 
-![Ammo Box](/blog/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/ammo-box.jpeg)
+![Ammo Box](/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/ammo-box.jpeg)
 
 ## E se começar a fumaça / fogo?
 
