@@ -1,7 +1,6 @@
 title: "Helimodelos.com"
 email: helimodelos@gmail.com
 timezone: UTC
-baseurl: "/"
 permalink: "/:categories/:title/"
 logo: 'assets/images/helimodelos-logo.png'
 favicon: 'assets/images/favicon.ico'
