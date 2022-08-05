@@ -2,7 +2,7 @@
 <!-- Related Posts
 ================================================== -->
 <div class="row"> 
-    <div class="{% unless page.categories == empty %} related-posts {% endunless %} pt-4 pb-4">  
+    <div class="{% unless page.categories == empty %} related-posts {% endunless %} col-sm-12 pt-4 pb-4">  
 
         {% unless page.categories == empty %}
         <h2 class="text-center mb-4">Explore more content like this</h2>
@@ -13,6 +13,9 @@
         <!-- Categories -->
         {% assign sortedCategories = page.categories | sort %}
         {% for category in sortedCategories %}
+            {% if category == "en" or category == "br" %}
+                {% continue %}
+            {% endif %}
         <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories/{{ category | replace: " ","-" }}">{{ category }}</a>                
         {% endfor %}
 

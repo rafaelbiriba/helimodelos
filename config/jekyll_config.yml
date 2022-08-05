@@ -1,7 +1,7 @@
 title: "Helimodelos.com"
 email: helimodelos@gmail.com
 timezone: UTC
-baseurl: "/blog"
+baseurl: "/"
 permalink: "/:categories/:title/"
 logo: 'assets/images/helimodelos-logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -82,12 +82,10 @@ jekyll_compose:
   default_front_matter:
     posts:
       layout: post
-      date:
-      title:
       excerpt: "description"
       author: rafaelbiriba
       locale: en_US/pt_BR
       categories: [ en, pt, a, b ]
       tags: [1,2,3]
-      image: assets/images/3.jpg
+      image: cover.jpg
       published: false
