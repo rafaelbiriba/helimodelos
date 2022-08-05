@@ -318,12 +318,12 @@ span.post-name a,span.post-read-more a:hover {
         color: #EE1C25;
         font-size:15px;
     }
-    a {
+    a:not([data-lightbox]) {
         color:inherit; 
         box-shadow:inset 0 -1px 0 #EE1C25, 0 2px 0 #EE1C25;
         
     }
-    a:hover {
+    a:hover:not([data-lightbox]) {
         box-shadow:inset 0 -30px 0 #EE1C25, 0 2px 0 #EE1C25;
         color:white;
         text-decoration:none;
