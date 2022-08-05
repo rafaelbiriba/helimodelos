@@ -12,7 +12,6 @@ tags:
 - baterias
 - segurança
 image: assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/cover.jpg
-published: false
 ---
 
 Baterias pegando fogo acontecem com os outros mas será que pode acontecer com a gente? 
