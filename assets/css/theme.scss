@@ -85,6 +85,18 @@ small, .small {
 /* #Navigation
 ================================================== */
 
+@media (max-width: 630px) {
+    .navbar-brand img {
+      height: 35px;  
+    }
+}
+
+@media (max-width: 474px) {
+    .navbar-brand img {
+      height: 27px;  
+    }
+}
+
 .start-header {
 	opacity: 1;
 	transform: translateY(0);
