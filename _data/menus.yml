@@ -2,10 +2,10 @@
 topmenu:
 
 - title: English &#x1F1EC;&#x1F1E7;
-  url: "/en"
+  url: "en/"
 
 - title: Português &#127463;&#127479;
-  url: "/br"
+  url: "br/"
 
 - title: Search
   url: "search/"
