@@ -54,7 +54,7 @@ Don't forget, a fully charged or discharged battery can start the chemical react
 
 Run away from it! A simple search for "lipo safe fire" and you will see that these bags catch fire along with the battery.
 
-![Lipo Bag](/blog/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/lipo-bag.jpeg)
+![Lipo Bag](/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/lipo-bag.jpeg)
 
 ### Bat Safe
 
@@ -64,7 +64,7 @@ The manufacturer pays attention that the box has a maximum battery limit. In the
 
 I'm particularly using this option. The box costs around $75 (USD) at the time of publication.
 
-![Bat Safe](/blog/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/bat-safe.jpeg)
+![Bat Safe](/assets/images/posts/2022/how-safe-are-your-lipo-batteries-stored/bat-safe.jpeg)
 
 ### Ammo box
 
