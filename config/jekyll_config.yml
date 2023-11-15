@@ -3,7 +3,7 @@ email: helimodelos@gmail.com
 timezone: UTC
 permalink: "/:categories/:title/"
 logo: 'assets/images/helimodelos-logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/icon-site.png'
 author: Rafael Biriba
 
 pagination:
