@@ -6,7 +6,7 @@ excerpt: Adentre o coração das manobras de helicópteros RC com o swashplate �
 author: rafaelbiriba
 locale: pt_BR
 categories:
-- pt
+- br
 - mecânica
 tags:
 - você sabia
