@@ -21,7 +21,5 @@ group :jekyll_plugins do
     gem 'jekyll-compose'
     gem 'tzinfo-data'
     gem 'tzinfo'
-    gem 'jekyll-admin'
-    gem "capistrano", "~> 2"
     gem "rake"
 end

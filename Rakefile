@@ -17,3 +17,10 @@ task :post do
   sh "open '#{image_folder}'"
   exit
 end
+
+desc "Compile production jekyll"
+task :compile_production do
+  sh "rm -rf _site_production"
+  sh "bundle exec jekyll build -c config/jekyll_config.yml,config/jekyll_config_production.yml"
+  sh "cp -nR _wordpress_deprecated/* _site_production/" 
+end
