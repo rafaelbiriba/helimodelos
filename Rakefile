@@ -1,5 +1,5 @@
 task :server do
-  sh "open 'http://127.0.0.1:4000/blog/' && bundle exec jekyll serve --host 0.0.0.0 -c config/jekyll_config.yml --livereload --watch --drafts --unpublished"
+  sh "bundle exec jekyll serve --host 0.0.0.0 -c config/jekyll_config.yml --livereload --watch --drafts --unpublished"
 end
 
 task :publish do
@@ -14,7 +14,6 @@ task :post do
   sh "JEKYLL_EDITOR=code bundle exec jekyll compose --config config/jekyll_config.yml --post '#{ARGV.first}'"
   image_folder = "assets/images/posts/#{Time.now.year}/#{ARGV.first.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')}" 
   sh "mkdir -p '#{image_folder}'"
-  sh "open '#{image_folder}'"
   exit
 end
 
