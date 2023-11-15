@@ -55,6 +55,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jemoji
 
 exclude:
   - _wordpress_deprecated
@@ -70,12 +71,10 @@ exclude:
 
 t:
   en_US:
-    description: Technology and Development stuff!
-    flag: "&#x1F1EC;&#x1F1E7;"
+    flag: /assets/images/us-flag.png
     name: "English"
   pt_BR:
-    description: Coisas sobre tecnologia e desenvolvimento!
-    flag: "&#127463;&#127479;"
+    flag: /assets/images/brazil-flag.png
     name: "Português"
 
 jekyll_compose:

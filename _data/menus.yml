@@ -1,10 +1,10 @@
 # Top Menu
 topmenu:
 
-- title: English &#x1F1EC;&#x1F1E7;
+- title: English <img src='/assets/images/us-flag.png' width='20px'>
   url: "en/"
 
-- title: Português &#127463;&#127479;
+- title: Português <img src='/assets/images/brazil-flag.png' width='20px'>
   url: "br/"
 
 - title: Search

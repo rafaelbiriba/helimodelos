@@ -10,7 +10,7 @@
             <div class="wrapfooter small d-flex align-items-center">
                 <span class="author-meta">
                 <!-- By  <span class="post-name"> {% if post.author %}{{ author.display_name }}{% else %}{{ site.author }}{% endif %}, </span>              -->
-                Published on <span class="post-date">{{ post.date | date_to_string }}</span> | <i title="{{ site.t[post.locale].name }} {{ site.t[post.locale].flag }}"><strong>{{ site.t[post.locale].name }}</strong> {{ site.t[post.locale].flag }}</i>
+                Published on <span class="post-date">{{ post.date | date_to_string }}</span> | <i title="{{ site.t[post.locale].name }}"><strong>{{ site.t[post.locale].name }}</strong> <img src={{ site.t[post.locale].flag }} width='20px'></i>
                 </span>               
                 <div class="clearfix"></div>
             </div>

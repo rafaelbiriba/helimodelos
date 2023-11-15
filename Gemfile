@@ -22,4 +22,5 @@ group :jekyll_plugins do
     gem 'tzinfo-data'
     gem 'tzinfo'
     gem "rake"
+    gem 'jemoji'
 end
