@@ -30,6 +30,6 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   searchResultTemplate: '<div class="col-md-3 mb-5"><div class="card"><a href="{url}"><img class="rounded mb-4" src="{{ site.baseurl }}/{image}" alt="{title}"> </a><div class="card-block"><h2 class="card-title h4 serif-font"><a href="{url}">{title}</a></h2><p class="card-text text-muted">{excerpt}</p></div></div></div>',
   noResultsText: "Ops! No results found!",
-  json: '/blog/search.json'
+  json: '/search.json'
 })
 </script>
