@@ -74,3 +74,7 @@ Ready to take your RC flying to new heights? Dive into the world of the OMPHobby
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fslKjEnAkMM?si=GwGEmOMJHnvhwfdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXcySOabV0E?si=eYka38Bz1lBcWJYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hs5zFAPUA0E?si=ALw3LrxkeBKQWbOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzsCAtVDcKU?si=R-kR5NIzli5fG2GF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
