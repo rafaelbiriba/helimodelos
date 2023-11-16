@@ -57,6 +57,10 @@ Don't miss out on the opportunity to elevate your RC helicopter experience with 
 
 Ready to take your RC flying to new heights? Dive into the world of the OMPHobby M4 MAX!
 
+## Build videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VmlXA-rLtwY?si=0n04bUHHjbZGc31C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Flying videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdbiFEcfz2I?si=3bAgV8Uim-b5K0q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
