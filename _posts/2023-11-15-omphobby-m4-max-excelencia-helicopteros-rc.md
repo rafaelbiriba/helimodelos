@@ -10,7 +10,7 @@ categories:
 - lancamentos
 tags:
 - OMPHobby
-- Novidades
+- novidades
 - OMP M4 MAX
 image: assets/images/posts/2023/omphobby-m4-max-rc-helicopter/omp-m4-max.jpg
 ---
